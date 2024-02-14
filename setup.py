@@ -8,7 +8,7 @@ classifiers = [
 ]
 setup(
     name="anupamcalculator",
-    version="0.0.1",
+    version="0.0.3",
     description="a calculator with some advanced functions",
     long_description=open("README.txt").read() + "\n\n" + open("CHANGELOG.txt").read(),
     long_description_content_type='text/plain',
