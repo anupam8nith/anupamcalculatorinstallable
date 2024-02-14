@@ -1,4 +1,4 @@
 # __init__.py
 
 # Import the calculator module
-from mycalculator import calculator
+from . import calculator as calculate
